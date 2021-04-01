@@ -1,2 +1,2 @@
 # SWENG_Essays
-A Collection software Engineering Essays 
+A Collection of software Engineering Essays 
